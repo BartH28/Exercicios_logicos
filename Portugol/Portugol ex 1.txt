@@ -1,0 +1,23 @@
+Algoritimo para idade da pessoa {
+	
+	inteiro idade
+	inteiro meses
+	inteiro dias
+	inteiro horas
+	inteiro minutos
+	
+	função inicio() {
+	escreva ("Qual é a sua idade?")
+	leia (idade)
+	
+	meses = idade * 12
+	dias = idade * 365
+	horas = idade * 24
+	minutos = idade * 60
+
+	escreva("Sua idade em meses é:" + meses)
+	escreva("Sua idade em meses é:" + dias)
+	escreva("Sua idade em meses é:" + horas)
+	escreva("Sua idade em meses é:" + minutos)
+	}
+}

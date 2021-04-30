@@ -1,0 +1,23 @@
+Algoritimo do salario{
+
+	real salario
+	real aumento
+	real novoSalario
+	
+	função inicio() {
+	
+	escreva ("Qual é o seu salario ?")
+	leia = salario
+
+	se (salario > 500)
+	{
+		escreva ("O seu salario não pe adequado para o aumento")
+	}
+	senão
+	{
+		aumento = (salario * 30) /100
+		novoSalario = salario + aumento
+		Escreva("O seu novo salario ficara " + "R$" + novoSalario)
+	}
+     }
+}

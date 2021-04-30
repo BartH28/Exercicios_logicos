@@ -1,0 +1,31 @@
+Algoritimo categoria natação{
+
+	Real idade
+
+	função inicio(){
+	
+	escreva ("Qual é a sua idade?")
+	leia (idade)
+
+ 	se (idade >= 5 &&  idade <= 7)
+            {
+                Escreva ("Sua categoria de natação é Infantio A"); 
+            }
+            senao se (idade >= 8 &&  idade <= 10)
+            {
+                Escreva ("Sua categoria de natação é Infantio B");
+            }
+            senao se (idade >= 11 &&  idade <= 13)
+            {
+                Escreva ("Sua categoria de natação é Juvenio A");
+            }
+            senao se (idade >= 14 &&  idade <= 17)
+            {
+                Escreva ("Sua categoria de natação é Juvenio B");
+            }
+            senao 
+            {
+                Escreva ("Sua categoria de natação é Senior");
+            }
+	}
+}

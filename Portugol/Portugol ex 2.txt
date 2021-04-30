@@ -1,0 +1,21 @@
+Algoritimo quantos anos voce tem em semana{
+
+	inteiro anoNascimento
+	inteiro anoAtual
+	inteiro idade
+	Real semanas 
+
+	função inicio() {
+	
+	Escreva ("Qual é o ano em que você nasceu ?")
+	leia (anoNascimento)
+	Escreva ("Em que ano nôs estamos ?")
+	leia (anoAtual)
+
+	Idade = anoAtual - anoNascimento;
+	semana =  idade * 52.179;
+
+	Escreva ("A sua idade é " + idade);
+	Escreva ("A sua idade em semanas é " + semanas)
+	}
+}

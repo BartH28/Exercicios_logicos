@@ -9,13 +9,13 @@ namespace aa2
             Console.WriteLine("Digite a sua idade em anos\n");
             int idade = int.Parse(Console.ReadLine());
 
-            int meses = idade * 30;
+            int meses = idade * 12;
 
             int dias = idade * 365;
 
-            int horas = idade * 8766;
+            int horas = idade * 24;
 
-            int minutos = idade * 525960;
+            int minutos = idade * 60;
 
             Console.ForegroundColor =  ConsoleColor.Blue;
 
