@@ -1,0 +1,16 @@
+D:\Back-end senai\Exercicio Logicos\Desafio\bin\Debug\net5.0\Desafio.exe
+D:\Back-end senai\Exercicio Logicos\Desafio\bin\Debug\net5.0\Desafio.deps.json
+D:\Back-end senai\Exercicio Logicos\Desafio\bin\Debug\net5.0\Desafio.runtimeconfig.json
+D:\Back-end senai\Exercicio Logicos\Desafio\bin\Debug\net5.0\Desafio.runtimeconfig.dev.json
+D:\Back-end senai\Exercicio Logicos\Desafio\bin\Debug\net5.0\Desafio.dll
+D:\Back-end senai\Exercicio Logicos\Desafio\bin\Debug\net5.0\ref\Desafio.dll
+D:\Back-end senai\Exercicio Logicos\Desafio\bin\Debug\net5.0\Desafio.pdb
+D:\Back-end senai\Exercicio Logicos\Desafio\obj\Debug\net5.0\Desafio.csprojAssemblyReference.cache
+D:\Back-end senai\Exercicio Logicos\Desafio\obj\Debug\net5.0\Desafio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-end senai\Exercicio Logicos\Desafio\obj\Debug\net5.0\Desafio.AssemblyInfoInputs.cache
+D:\Back-end senai\Exercicio Logicos\Desafio\obj\Debug\net5.0\Desafio.AssemblyInfo.cs
+D:\Back-end senai\Exercicio Logicos\Desafio\obj\Debug\net5.0\Desafio.csproj.CoreCompileInputs.cache
+D:\Back-end senai\Exercicio Logicos\Desafio\obj\Debug\net5.0\Desafio.dll
+D:\Back-end senai\Exercicio Logicos\Desafio\obj\Debug\net5.0\ref\Desafio.dll
+D:\Back-end senai\Exercicio Logicos\Desafio\obj\Debug\net5.0\Desafio.pdb
+D:\Back-end senai\Exercicio Logicos\Desafio\obj\Debug\net5.0\Desafio.genruntimeconfig.cache
